@@ -27,7 +27,7 @@ Event platform for organizers. Create events, sell tickets, manage check-ins and
 
 ### Pastry Store Platform (Beelicious Bites)
 
-A full-stack pastry store solution with authentication, image uploads, pagination, payment integration and owner dashboards.
+A full-stack pastry store solution with authorization, authentication, image uploads, pagination, payment integration and owner dashboards.
 
 ### Wedding Website Platform (BlessingwedsGreat)
 
@@ -38,7 +38,7 @@ A social media platform that helps with engaging conversation, story telling, co
 
 ### Real Estate Website Platform (DreamHome)
 
-A full-stack pastry store solution with authentication, property listings, image uploads, pagination, payment integration and owner dashboards.
+A full-stack solution with authentication, property listings, image uploads, pagination, payment integration and user  property dashboards.
 
 
 ## Connect With Me
